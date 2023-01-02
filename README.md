@@ -1,13 +1,13 @@
 # What is Descovery?
 
 It is an aggregator for non-fungble tokens. We don not necessarily need a blockchain to make it work. 
-However, we need APIs from existing NFT marketplaces. Take a look at: https://www.gem.xyz/ for reference purpose only.
+However, we need APIs from existing NFT marketplaces. Take a look at [gem aggregator](https://www.gem.xyz/) for reference purpose only.
 
 Aim: to build an app/dApp that aggregates all newly (within 3hrs) minted NFTs on five popular NFT marketplaces. 
 
 Some Guides
 
-• fork repo on GitHub
+• Fork and clone this repository. To learn how to fork a repository, see the GitHub documentation on how to [fork a repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo). 
 
 • clone repo to local
 
